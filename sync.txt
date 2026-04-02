@@ -1,1 +1,1 @@
-Local change pushed to Git Hub
+Cloud Sync Feature: Sync files between local and cloud storage
